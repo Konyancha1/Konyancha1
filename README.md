@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Konyancha1
-- 👀 I’m interested in cyberseciruty
+- 👀 I’m interested in cybersecurity and machine learning
 - 🌱 I’m currently learning software engineering 
 
 
