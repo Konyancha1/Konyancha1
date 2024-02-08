@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Konyancha1
+- 👋 Hi, I’m Kevin Onyancha
 - 👀 I’m interested in cybersecurity and machine learning
-- 🌱 I’m currently learning software engineering 
 
 
 <!---
