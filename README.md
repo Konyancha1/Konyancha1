@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Kevin Onyancha
-- 👀 I’m interested in cybersecurity and machine learning
+# 👋 Hey, I'm Kevin Onyancha!  
 
-
-<!---
-Konyancha1/Konyancha1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Product Manager | Frontend Dev | Cybersecurity Enthusiast**  
+💡 Building cool things with **React, TypeScript, and AI**  
+🔐 Exploring the world of **cybersecurity & ethical hacking**  
